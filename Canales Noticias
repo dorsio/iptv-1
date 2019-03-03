@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:1,Telesur HD - Venezuela
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/477.m3u8
+#EXTINF:1,TvV - TvVenezuela
+http://162.255.86.122:25461/live/DaZPlayer-BEST-IPTV/DAZPLAYER-IPTV-APP-WEBSITE/806.m3u8
+#EXTINF:1,24/7 Noticias - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/101.m3u8
+#EXTINF:1,Canal 26 HD - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/75.m3u8
+#EXTINF:1,La Nacion HD - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/777.m3u8
+#EXTINF:1,Orbe 21 HD - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/855.m3u8
+#EXTINF:1,Todo Noticias HD - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/783.m3u8
+#EXTINF:1,America Tv HD - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/309.m3u8
+#EXTINF:1,Television Publica - Argentina
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/804.m3u8
+#EXTINF:1,Cgtn Espanol - china
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/275.m3u8
+#EXTINF:1,Cgtn Espanol - China
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:1,France 24 Espanol - Francia
+http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
+#EXTINF:1,BioBio Tv - Chile
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/437.m3u8
+#EXTINF:1,Emol SD - Chile
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/806.m3u8
+#EXTINF:1,T13 - Chile
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/805.m3u8
+#EXTINF:1,Cnn HD - Chile
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/223.m3u8
+#EXTINF:1,Red mas Noticias - Colombia
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/474.m3u8
+#EXTINF:1,Telemedellin HD - Colombia
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/525.m3u8
+#EXTINF:1,Ntn 24 - Colombia
+https://rcnhd.cdn.net.co/live04/ntn24_360p.m3u8
+#EXTINF:1,Telesur SD - cuba
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/571.m3u8
+#EXTINF:1,Marti Tv - Usa
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/301.m3u8
+#EXTINF:1,Marti Usa
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:1,Telemundo 51 HD - Usa
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/808.m3u8
+#EXTINF:1,Telemundo 62 HD - Usa
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/277.m3u8
+#EXTINF:1,Euronews HD - Espana
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/319.m3u8
+#EXTINF:1,La 1 HD -Espana
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1,Hispan Tv HD - Espana
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/320.m3u8
+#EXTINF:1,DW Espanol - Espana
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,Hispan Tv - Latino
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w394774964_b644100_slen.m3u8
+#EXTINF:1,Tvn HD - Panama
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/414.m3u8
+#EXTINF:1,Teledoce - Uruguay
+http://162.255.86.122:25461/live/DaZPlayer-IPTV-WEB-Y-APP/FREE-CANALES-GRATIS-DAZPLAYER/814.m3u8
+#EXTINF:1,Television Nacional Uruguay
+http://vxlive.cdn.antel.net.uy/auth_livesignal_480,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDgwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NTEyNzQ4OTgmcmFuZG9tPUVqd0U2TXlCd3UmYy1pcD0xODYuMTU2LjE0MC4yMTIsMjY3MTMxNjUzNmUyNTU3NmU4Njk2OTJkYjNlOTZmMmE4N2Q5NDA3YWRkN2U3MzRhMTdkYTE3YmQxYmQ4YTEzYw==/vxfmt=hls/h_e201e5b4bee8ce9ee42d31ceee9d11ab/var3000000/playlist.m3u8
+#EXTINF:1,Television Nacional Uruguay
+http://tv.vera.com.uy/canal/6027.m3u8
+#EXTINF:1,Rt Espanol - Rusia
+http://vxlive.cdn.antel.net.uy/auth_livesignal_510,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTEwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NTEyNzQzNDgmcmFuZG9tPWJ0bFlvdGpWcU4mYy1pcD0xODYuMTU2LjE0MC4yMTIsY2Q1ODI3ZTQ3ZTc5Y2EyNTdjZTI3MjU2YjgwZmIzOWM5ZDYxN2VlM2I1NTExYzQwNDI3MDk1OWExYzhjMWE5NA==/vxfmt=hls/h_21f36eed4ca74732e1e814e69edf1d65/var3000000/playlist.m3u8
+#EXTINF:1,Rt Espanol - Rusia
+http://tv.vera.com.uy/canal/6027.m3u8
